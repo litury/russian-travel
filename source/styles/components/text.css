@@ -1,0 +1,12 @@
+.text {
+    --space-y: 0;
+    --text-size: 16px;
+
+    margin-top: var(--space-y);
+    margin-bottom: var(--space-y);
+
+    font-size: var(--text-size);
+    font-weight: 400;
+    line-height: 1;
+    word-wrap: break-word;
+}

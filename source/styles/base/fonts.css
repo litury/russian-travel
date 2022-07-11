@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'FuturaPT';
+    font-weight: 700;
+    font-style: normal;
+    src:
+            url('../fonts/FuturaPT-Bold.woff') format('woff2'),
+            url('../fonts/FuturaPT-Bold.woff2') format('woff');
+    font-display: swap;
+}
+

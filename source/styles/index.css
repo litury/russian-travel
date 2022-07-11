@@ -1,0 +1,14 @@
+/**
+ * base
+ */
+
+@import "base/page.css";
+@import "base/fonts.css";
+@import "base/global.css";
+
+/**
+ * components
+ */
+
+@import "components/title.css";
+@import "components/text.css";

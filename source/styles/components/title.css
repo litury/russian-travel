@@ -1,0 +1,13 @@
+.title {
+    --space-y: 0;
+    --text-size: 42px;
+
+    margin-top: var(--space-y);
+    margin-bottom: var(--space-y);
+
+    font-size: var(--text-size);
+    font-family: "NeueMachina";
+    font-weight: 800;
+    line-height: 1;
+    word-wrap: break-word;
+}
