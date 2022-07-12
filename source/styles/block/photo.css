@@ -1,0 +1,17 @@
+.photo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 64px;
+}
+
+@media (min-width: 768px) {
+    .photo {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 16px;
+        margin-bottom: 88px;
+    }
+}

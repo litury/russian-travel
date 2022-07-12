@@ -1,0 +1,34 @@
+.hero {
+    margin-bottom: 64px;
+}
+@media (min-width: 768px) {
+    .hero {
+        margin-bottom: 88px;
+    }
+}
+
+.hero__title {
+    margin-bottom: 16px;
+    text-align: center;
+}
+@media (min-width: 768px) {
+    .hero__title {
+        margin-bottom: 32px;
+    }
+}
+
+.hero__subtitle {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    .hero__subtitle {
+        max-width: 630px;
+        margin-bottom: 56px;
+    }
+}
+
+.hero__img {
+    margin-bottom: 8px;
+}

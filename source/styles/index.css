@@ -12,3 +12,19 @@
 
 @import "components/title.css";
 @import "components/text.css";
+@import "components/reset-list.css";
+@import "components/images.css";
+@import "components/card.css";
+
+
+/**
+ * block
+ */
+
+@import "block/header.css";
+@import "block/hero.css";
+@import "block/intro.css";
+@import "block/photo.css";
+@import "block/places.css";
+@import "block/cover.css";
+@import "block/footer.css";
