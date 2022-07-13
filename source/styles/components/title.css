@@ -46,12 +46,17 @@
 @media (min-width: 768px) {
     .title_size_normal {
         --text-size: 42px;
+
+        padding: 0;
     }
 }
 
 @media (min-width: 1024px) {
     .title_size_normal {
         --text-size: 72px;
+
+        padding: 0;
+        margin-left: 0;
     }
 }
 

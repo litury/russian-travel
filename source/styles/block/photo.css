@@ -15,3 +15,11 @@
         margin-bottom: 88px;
     }
 }
+
+@media (min-width: 1024px) {
+    .photo {
+        margin-bottom: 92px;
+    }
+}
+
+

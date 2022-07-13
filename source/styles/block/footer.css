@@ -28,3 +28,15 @@
         gap: 18px;
     }
 }
+
+@media (min-width: 1024px) {
+    .footer {
+        max-width: 928px;
+    }
+}
+
+@media (min-width: 1280px) {
+    .footer {
+        max-width: 1124px;
+    }
+}

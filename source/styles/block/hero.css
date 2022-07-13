@@ -7,6 +7,20 @@
     }
 }
 
+@media (min-width: 1024px) {
+    .hero {
+       max-width: 928px;
+        margin: 0 auto 92px auto;
+    }
+}
+
+@media (min-width: 1280px) {
+    .hero {
+        max-width: 984px;
+    }
+}
+
+
 .hero__title {
     margin-bottom: 16px;
     text-align: center;

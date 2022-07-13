@@ -24,6 +24,23 @@
     }
 }
 
+@media (min-width: 1024px) {
+    .cover {
+        min-height: 640px;
+        gap: 32px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .cover {
+        min-height: 740px;
+        max-width: 1184px;
+        gap: 32px;
+
+        margin: 0 auto 92px auto;
+    }
+}
+
 .cover__overlay {
     position: absolute;
     top: 0;

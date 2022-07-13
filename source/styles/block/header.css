@@ -4,6 +4,19 @@
     margin-bottom: 48px;
 }
 
+@media (min-width: 1024px) {
+    .header {
+        max-width: 928px;
+
+    }
+}
+
+@media (min-width: 1280px) {
+    .header {
+        max-width: 1184px;
+    }
+}
+
 .header__menu {
     display: flex;
     align-items: flex-end;

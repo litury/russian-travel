@@ -8,6 +8,21 @@
     }
 }
 
+@media (min-width: 1024px) {
+    .intro {
+        max-width: 928px;
+        padding: 0;
+        margin: 0 auto 92px auto;
+    }
+}
+
+@media (min-width: 1280px) {
+    .intro {
+        max-width: 984px;
+    }
+}
+
+
 
 .intro__title {
     max-width: 248px;
@@ -23,6 +38,12 @@
 .intro__text {
     line-height: 1.6;
     margin-bottom: 34px;
+}
+
+@media (min-width: 1024px) {
+    .intro__text {
+        max-width: 690px;
+    }
 }
 
 .intro__item {
