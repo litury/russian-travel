@@ -1,9 +1,0 @@
-.reset-list {
-    --space: 0;
-
-    margin-top: var(--space);
-    margin-bottom: var(--space);
-    padding-left: var(--space);
-
-    list-style-type: none;
-}
